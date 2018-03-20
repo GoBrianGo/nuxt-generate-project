@@ -1,4 +1,4 @@
-# yes
+# project name
 
 > nuxt generate project
 
